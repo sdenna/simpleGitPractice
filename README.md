@@ -1,0 +1,2 @@
+# simpleGitPractice
+Practice project
